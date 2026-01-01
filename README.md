@@ -148,7 +148,7 @@ The following OpenAI models and tools were integrated:
    ## Team Members
 
 ### Project Lead / AI & Backend Development
-**Sarthak Mokal**  
+**Shalaka Gangurde**  
 GitHub: https://github.com/sarthakmokal  
 LinkedIn: https://www.linkedin.com/in/sarthak-mokal/
 
