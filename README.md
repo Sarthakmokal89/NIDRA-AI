@@ -147,10 +147,9 @@ The following OpenAI models and tools were integrated:
    npm install
    ## Team Members
 
-### Project Lead / AI & Backend Development
+### Team member
 **Shalaka Gangurde**  
-GitHub: https://github.com/sarthakmokal  
-LinkedIn: https://www.linkedin.com/in/sarthak-mokal/
+
 
 ## How to Run (Web Application)
 
